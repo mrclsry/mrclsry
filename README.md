@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there !👋
 
 <!--
 **mrclsry/mrclsry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 I'm a third year college student at BINUS, majoring in Computer Science.
+🌱 I’m interested in Cyber Security and Front-End.
+📫 How to reach me: marcelius.surya02@gmail.com.
+
+
